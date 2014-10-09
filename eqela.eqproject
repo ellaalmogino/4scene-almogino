@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# 4scene-almogino
+#
+
+projectname: 4scene-almogino
+vendorid: com.almogino
+mainmodule: com.almogino.4scenealmogino
